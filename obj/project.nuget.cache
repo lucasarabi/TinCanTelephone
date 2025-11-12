@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OAoKPqOofIA=",
+  "dgSpecHash": "HrSJoB9VD2o=",
   "success": true,
-  "projectFilePath": "/home/lucas/tmp/tincantelephone/tincantelephone.csproj",
+  "projectFilePath": "/home/lucas/tincantelephone/tincantelephone.csproj",
   "expectedPackageFiles": [
     "/home/lucas/.nuget/packages/microsoft.aspnetcore.openapi/9.0.9/microsoft.aspnetcore.openapi.9.0.9.nupkg.sha512",
     "/home/lucas/.nuget/packages/microsoft.openapi/1.6.17/microsoft.openapi.1.6.17.nupkg.sha512",

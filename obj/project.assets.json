@@ -80,11 +80,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/home/lucas/tmp/tincantelephone/tincantelephone.csproj",
+      "projectUniqueName": "/home/lucas/tincantelephone/tincantelephone.csproj",
       "projectName": "tincantelephone",
-      "projectPath": "/home/lucas/tmp/tincantelephone/tincantelephone.csproj",
+      "projectPath": "/home/lucas/tincantelephone/tincantelephone.csproj",
       "packagesPath": "/home/lucas/.nuget/packages/",
-      "outputPath": "/home/lucas/tmp/tincantelephone/obj/",
+      "outputPath": "/home/lucas/tincantelephone/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/home/lucas/.nuget/NuGet/NuGet.Config"
