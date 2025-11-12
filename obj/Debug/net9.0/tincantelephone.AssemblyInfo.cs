@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("tincantelephone")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3d55de4dd697c8240de5427594ff3c0f75f467e4")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+b8b8722186f07659b56de3f0445293fc47f8a96e")]
 [assembly: System.Reflection.AssemblyProductAttribute("tincantelephone")]
 [assembly: System.Reflection.AssemblyTitleAttribute("tincantelephone")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
